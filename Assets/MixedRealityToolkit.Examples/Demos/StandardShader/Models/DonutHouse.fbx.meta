@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 9ddfc3f42a6954c4bbf94633a940f478
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DonutHouse_Exterior
+    100004: DonutHouse_Interior
+    100006: DonutHouse_Poster
+    100008: DonutHouse_Topper
+    100010: DonutHouse_Window
+    100012: Donuts
+    100014: Exterior
+    100016: Interior
+    400000: //RootNode
+    400002: DonutHouse_Exterior
+    400004: DonutHouse_Interior
+    400006: DonutHouse_Poster
+    400008: DonutHouse_Topper
+    400010: DonutHouse_Window
+    400012: Donuts
+    400014: Exterior
+    400016: Interior
+    2100000: Painting1
+    2100002: Furniture
+    2100004: dONUTS
+    2100006: exterior
+    2100008: Glass
+    2100010: Topper
+    2300000: DonutHouse_Exterior
+    2300002: DonutHouse_Interior
+    2300004: DonutHouse_Poster
+    2300006: DonutHouse_Topper
+    2300008: DonutHouse_Window
+    2300010: Donuts
+    3300000: DonutHouse_Exterior
+    3300002: DonutHouse_Interior
+    3300004: DonutHouse_Poster
+    3300006: DonutHouse_Topper
+    3300008: DonutHouse_Window
+    3300010: Donuts
+    4300000: DonutHouse_Poster
+    4300002: DonutHouse_Interior
+    4300004: Donuts
+    4300006: DonutHouse_Exterior
+    4300008: DonutHouse_Window
+    4300010: DonutHouse_Topper
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Furniture
+    second: {fileID: 2100000, guid: b47b055935198d04db16203a5c679a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 2ff5711059851dc498b4d67567c66301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painting1
+    second: {fileID: 2100000, guid: 6e15c4f05b550564f96fd2c1cb0f48e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topper
+    second: {fileID: 2100000, guid: 7e679863e334f2e4f862e62ee8936125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dONUTS
+    second: {fileID: 2100000, guid: 4f0403d1326cda84b843fe24ecfbc9b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: exterior
+    second: {fileID: 2100000, guid: ed914fbfa4299db4794324e26ad7ce3b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
